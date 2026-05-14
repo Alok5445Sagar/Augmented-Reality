@@ -1,18 +1,40 @@
-# Augmented-Reality
-Augmented Reality (AR) is an interactive experience of a real world environment where digital objects, contents and informations are overlaid onto the real world with the help of computer generated perceptual information.
+# 🌐 Augmented Reality Portfolio
 
-DAILY LIFE APPLICATIONS:
-1. Education Field - Students can visualize the objects, characters, processes in front of them.
-2. Industrial Field - Process trainings, fixing malfunctions, etc can be treated through AR.
-3. Commercial Field - Customers can spawn the products like specs, watches, dresses, furnitures, etc in front of them to choose from before buying.
-4. Gaming Field - For cool gaming experiences AR can be used.
+A collection of Augmented Reality projects built using Unity, Vuforia, and C#.
 
+## 📂 Projects
 
-I have worked on Augmented this Domain, learnt about its importance and application in various fields made some AR applications which we can modify a little bit and deploy it in various real life domains such as Education, Entertainment, E-commerce, Healthcare etc.
-So you can find the respective apk files of the app and the video output of that apk file.
+| Project | Description |
+|---------|-------------|
+| AR Greeting Card | Interactive AR greeting experience |
+| AR Ground Plane Car | Markerless AR car placement |
+| AR Ground Plane Barbarian Model | AR character visualization |
+| AR Mid Air Drones | Mid-air drone simulation |
+| AR Virtual Button | Interactive virtual button system |
+| AR Video Playback UI | AR multimedia playback |
+| AR Vid Play Virtual Buttons | AR video interaction |
+| AR Vid Play Virtual Buttons Model | Advanced AR multimedia controls |
 
+---
+
+## 🛠️ Technologies Used
+
+- Unity 3D
+- Vuforia Engine
+- C#
+- Android SDK
+- AR Foundation
+
+---
 
 Link for the video output: https://drive.google.com/drive/folders/1Z2QNR7B4FFE2LAffr20XRivD5o4c-Evi?usp=sharing
-
-
 Link for the Apk files: https://drive.google.com/drive/folders/1ZUit5lwIiwszlAx-SfF8riYmkoMV3EXA?usp=sharing
+
+---
+
+## 👨‍💻 Author
+
+Alok Sagar
+
+
+
