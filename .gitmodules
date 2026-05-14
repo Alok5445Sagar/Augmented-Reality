@@ -1,0 +1,24 @@
+[submodule "AR-Greeting-Card"]
+	path = AR-Greeting-Card
+	url = https://github.com/Alok5445Sagar/AR-Greeting-Card.git
+[submodule "AR-Book"]
+	path = AR-Book
+	url = https://github.com/Alok5445Sagar/AR-Book.git
+[submodule "AR-Ground-Plane_BarbarianModel"]
+	path = AR-Ground-Plane_BarbarianModel
+	url = https://github.com/Alok5445Sagar/AR-Ground-Plane_BarbarianModel.git
+[submodule "AR-Ground-Plane_CAR"]
+	path = AR-Ground-Plane_CAR
+	url = https://github.com/Alok5445Sagar/AR-Ground-Plane_CAR.git
+[submodule "AR-Mid-Air_DRONES"]
+	path = AR-Mid-Air_DRONES
+	url = https://github.com/Alok5445Sagar/AR-Mid-Air_DRONES.git
+[submodule "AR-Virtual-Button"]
+	path = AR-Virtual-Button
+	url = https://github.com/Alok5445Sagar/AR-Virtual-Button.git
+[submodule "AR-Video-Play_VirtualButtons"]
+	path = AR-Video-Play_VirtualButtons
+	url = https://github.com/Alok5445Sagar/AR-Video-Play_VirtualButtons.git
+[submodule "AR-Video-Playback_UI"]
+	path = AR-Video-Playback_UI
+	url = https://github.com/Alok5445Sagar/AR-Video-Playback_UI.git
